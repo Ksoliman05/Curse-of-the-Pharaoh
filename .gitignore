@@ -1,0 +1,65 @@
+# ===============================
+# 🎮 Unity Generated Folders (DO NOT TRACK)
+# ===============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vscode/
+.idea/
+.gradle/
+.vs/
+
+# ===============================
+# 🛠 Visual Studio / IDE Files
+# ===============================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# ===============================
+# 🚫 Unity Asset Store Content (EXCLUDED FOR LICENSING)
+# ===============================
+Assets/AK Studio Art/
+Assets/amusedART/
+Assets/DavePixel/
+Assets/Fantasy Skybox FREE/
+Assets/Free Low Poly Desert Pack/
+Assets/Lava_Flowing_Shader/
+Assets/Mummy/
+Assets/StarterAssets/
+Assets/TextMesh Pro/
+Assets/TutorialInfo/
+
+# ===============================
+# 📦 Unity Asset Meta Files (only if corresponding asset is ignored)
+# ===============================
+# *.meta
+
+# ===============================
+# 🖼 Optional: exclude large media files (if needed)
+# ===============================
+# *.fbx
+# *.wav
+# *.mp3
+# *.png
+# *.jpg
+
+# ===============================
+# 🍏 OS-specific system files
+# ===============================
+.DS_Store
+Thumbs.db
